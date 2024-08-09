@@ -10,7 +10,7 @@ A simple weather dashboard that shows the user the weather outlook for multiple 
 
 ### Getting Started
 
-First, navigate to <https://thadkingcole.github.io/weather_dashboard>
+
 
 If this is your first time visiting the page, the weather for Raleigh, NC will be displayed. If Raleigh's weather is not of interest to you, you can [search for a new city](#searching-for-a-new-city).
 
