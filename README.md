@@ -1,6 +1,6 @@
 # WEATHER DASHBOARD
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/35092138d7f24ef8af317d4a8b4c72a6)](https://app.codacy.com/manual/thadkingcole/weather_dashboard?utm_source=github.com&utm_medium=referral&utm_content=thadkingcole/weather_dashboard&utm_campaign=Badge_Grade_Dashboard) ![GitHub top language](https://img.shields.io/github/languages/top/thadkingcole/weather_dashboard)
+[![ANSHU](https://api.codacy.com/project/badge/Grade/35092138d7f24ef8af317d4a8b4c72a6)](https://app.codacy.com/manual/thadkingcole/weather_dashboard?utm_source=github.com&utm_medium=referral&utm_content=thadkingcole/weather_dashboard&utm_campaign=Badge_Grade_Dashboard) ![GitHub top language](https://img.shields.io/github/languages/top/thadkingcole/weather_dashboard)
 
 A simple weather dashboard that shows the user the weather outlook for multiple cities. Using [OpenWeather API](https://openweathermap.org/api), the user can find the weather for their desired location. The locations searched are saved for easy reviewing, and can be removed as desired by the user.
 
